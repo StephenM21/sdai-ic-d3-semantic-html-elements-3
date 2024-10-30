@@ -25,7 +25,7 @@ Should you need guidance on how to fork, open, edit, and maintain your codespace
 ## ToDo list ✅
 **Attention**: When you complete a task, put an `x` in the middle of the brackets to mark it off your ToDo list.
 
-1. [ ] Navigate to the `index.html` file. 
+1. [ x] Navigate to the `index.html` file. 
 2. [ ] Then navigate to the closing `</main>` tag. 
 3. [ ] Below that, create a third `<section>`, put a subheader element with the copy: `Contact`.
 4. [ ] Under that, put a paragraph element with the copy: `If you'd like to reach out, feel free to visit our office:`
